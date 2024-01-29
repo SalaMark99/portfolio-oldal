@@ -8,5 +8,10 @@ h1 {
 
 }
 p {
+<<<<<<< HEAD
     font-size: 1.8rem;
+=======
+    font-size: 18px;
+    letter-spacing: 2px;
+>>>>>>> korabbi-ag
 }
